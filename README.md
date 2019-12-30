@@ -10,4 +10,4 @@
 # vagrant.sh includes:
 - Virtual Box installation
 - Vagrant Installation 
-- Init the vagrant machine in the current directory
+- Init the vagrant machine with Ubuntu 14.04 (Trusty)  in the current directory
