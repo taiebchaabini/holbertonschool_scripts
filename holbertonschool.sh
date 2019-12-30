@@ -5,8 +5,8 @@ sudo apt-get upgrade
 sudo apt-get install git -y
 ## Betty Coding Style
 git clone https://github.com/holbertonschool/Betty.git
-sudo Betty/install.sh
-rm -Rf Betty
+cd Betty && sudo ./install.sh
+rm -Rf ../Betty
 rm ~/.vimrc
 ## C indentation
 echo "set tabstop=8 shiftwidth=8" >> ~/.vimrc
