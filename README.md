@@ -1,4 +1,4 @@
-## Scripts to prepare environment for HolbertonSchool Studies
+# Scripts to prepare environment for HolbertonSchool Studies
 
 # holbertonschool.sh includes:
 - Git Installation
