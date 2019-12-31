@@ -23,6 +23,8 @@ sudo rm -Rf /usr/lib/python3*/dist-packages/pep*
 sudo pip3 install pep8
 sudo cp /usr/local/lib/python3*/dist-packages/pep8.py /usr/bin/pep8
 sudo chmod u+x /usr/bin/pep8
+#Valgrind 
+sudo apt-get install valgrind -y
 # Generate SSH KEY for github
 ssh-keygen -t rsa -b 4096 -C "taiebchaabini@gmail.com" -f $HOME/.ssh/id_rsa
 cat $HOME/.ssh/id_rsa.pub

@@ -5,6 +5,7 @@
 - Betty Coding Style installation
 - C Indentation (.vimrc) file configuration
 - Python 3 && PEP 1.7.4 installation 
+- Valgrind installation
 - Generating SSH KEY for your github account, and showing the result in terminal.
 
 ## vagrant.sh includes:
