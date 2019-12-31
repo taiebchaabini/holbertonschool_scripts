@@ -26,7 +26,7 @@ sudo chmod u+x /usr/bin/pep8
 #Valgrind 
 sudo apt-get install valgrind -y
 # Generate SSH KEY for github
-ssh-keygen -t rsa -b 4096 -C "taiebchaabini@gmail.com" -f $HOME/.ssh/id_rsa
+ssh-keygen -t rsa -b 4096 -C "email@gmail.com" -f $HOME/.ssh/id_rsa
 cat $HOME/.ssh/id_rsa.pub
-git config --global user.email "taiebchaabini@gmail.com"
-git config --global user.name "Taieb Chaabini"
+git config --global user.email "email@gmail.com"
+git config --global user.name "username"
