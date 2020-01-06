@@ -12,3 +12,6 @@
 - Virtual Box installation
 - Vagrant Installation 
 - Init the vagrant machine with Ubuntu 14.04 (Trusty)  in the current directory
+
+## perlfix.sh includes:
+- The locale settings are set to en_US.UTF-8 to avoid Perl warning Setting locale failed.
